@@ -12,6 +12,14 @@ Etant donné le diagramme de domaine ci-dessus, les assertions suivantes sont-el
 - Un cours peut être enseigner à 2 étudiants
 - Un cours peut être enseigner à 20 étudiants 
 
+## Réponses 
+Faux
+Vrai
+Faux
+Vrai
+Faux
+Vrai
+
 ## Question ouverte
 
 Représentez la même association avec la notation UML « petit losange » 
