@@ -13,15 +13,18 @@ Etant donné le diagramme de domaine ci-dessus, les assertions suivantes sont-el
 - Un cours peut être enseigner à 20 étudiants 
 
 ## Réponses 
-Faux
-Vrai
-Faux
-Vrai
-Faux
-Vrai
+Faux  
+Vrai  
+Faux  
+Vrai  
+Faux  
+Vrai  
 
 ## Question ouverte
 
 Représentez la même association avec la notation UML « petit losange » 
 
-- Quelles informations perd-on par rapport au diagramme ci-dessus ? 
+- Quelles informations perd-on par rapport au diagramme ci-dessus ?
+
+## Réponse 
+Dans la notation UML avec un losange, nous perdons l'information sur la multiplicité exacte telle que "5..30", ce qui spécifie le nombre minimum et maximum d'entités qui peuvent être associées.
